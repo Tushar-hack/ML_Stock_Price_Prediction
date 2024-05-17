@@ -3,10 +3,6 @@
     - Basic knowledge of Python and machine learning.
     - Stock price dataset (CSV format).
 ## Getting Started
-    - Open Google Colab: Go to Google Colab and create a new notebook.
-    - Set Up Google Drive Integration: This allows you to upload your dataset to Google Drive and access it in Colab.
-    - Mount Google Drive
-    - Upload Dataset to Google Drive:
-       - Go to your Google Drive.
-       - Upload your dataset (e.g., DataSet_MSFT.csv).
-    
+    - Open Google Colab: Go to Google Colab and open the notebook given in the folder( Stock_Price_Prediction.ipynb ).
+    - Keep running each section by clicking on the run button given on the top of the leftmost of the section.
+    ![Stock_Price_Prediction](./Screenshot%20(219).png)
