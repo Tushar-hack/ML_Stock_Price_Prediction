@@ -5,4 +5,4 @@
 ## Getting Started
     - Open Google Colab: Go to Google Colab and open the notebook given in the folder( Stock_Price_Prediction.ipynb ).
     - Keep running each section by clicking on the run button given on the top of the leftmost of the section.
-    ![Stock_Price_Prediction](./Screenshot%20(219).png)
+    ![Stock_Price_Prediction](./Screenshot(219).png)
